@@ -1,7 +1,7 @@
 # Hi, im Ivan Duran 🤓
 
 ## 💫 About Me:
-🌱 I am currently studying Civil Engineering in Computer Science at the Universidad Austral de Chile. <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+🌱 I am currently studying Civil Engineering in Computer Science at the Universidad Austral de Chile. <a href="http://informatica.uach.cl/" target="_blank" rel="noreferrer"> <img src="https://www.uach.cl/uach/_imag/logo.jpg" alt="uach" width="30" height="30"/> </a>
 
 
 ## 💻 Tech Stack:
