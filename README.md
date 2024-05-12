@@ -1,5 +1,5 @@
 # 💫 About Me:
-㈻ 🌱<br>I am currently studying Civil Engineering in Computer Science at the Universidad Austral de Chile.
+㈻ <br>I am currently studying Civil Engineering in Computer Science at the Universidad Austral de Chile.
 
 
 # 💻 Tech Stack:
