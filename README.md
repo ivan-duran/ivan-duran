@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 🌱 I am currently studying Civil Engineering in Computer Science at the Universidad Austral de Chile.
-<br> <a href="http://informatica.uach.cl/" target="_blank" rel="noreferrer"> <img src="https://diario.uach.cl/wp-content/uploads/2013/11/2821400.jpg" alt="uach" width="60" height="35"/> </a>
+<br> <a href="http://informatica.uach.cl/" target="_blank" rel="noreferrer"> <img src="https://diario.uach.cl/wp-content/uploads/2013/11/2821400.jpg" alt="uach" width="120" height="70"/> </a>
 
 
 ## 💻 Tech Stack:
