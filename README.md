@@ -1,3 +1,5 @@
+### Hi, im Ivan Duran 🤓
+
 # 💫 About Me:
 🌱 I am currently studying Civil Engineering in Computer Science at the Universidad Austral de Chile.
 
